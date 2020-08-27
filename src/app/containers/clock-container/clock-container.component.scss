@@ -1,0 +1,15 @@
+.clocks {
+    display: flex;
+
+    .analog-container {
+        height: 400px;
+        min-width: 300px;
+        width: 50%;
+    }
+
+    .digital-container {
+        height: 400px;
+        min-width: 300px;
+        width: 50%;
+    }
+}
