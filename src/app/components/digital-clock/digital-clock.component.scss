@@ -7,7 +7,7 @@
     background-color: #F7F8C2;
 }
 
-.digitalClock {
+.digital-clock {
     position: relative;
     width: 300px;
     height: 130px;
@@ -25,12 +25,12 @@
     text-transform: uppercase;
 }
 
-.digitalTime {
+.digital-time {
     color: dimgrey;
     display: flex;
 }
 
-.ampm {
+.am-pm {
     margin-top: 10px;
     font-size: 12px;
 }
